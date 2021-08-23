@@ -1,6 +1,6 @@
-# 💻 MeetingPoint
+# 💻 Video_Chatting
  
-A video conference app using WebRTC 
+A video chatting App using WebRTC 
 [https://meetingpoint.herokuapp.com/](https://meetingpoint.herokuapp.com/)
 
 A **roomId** is automatically generated and appended to the `URL` when visited to the above `URL`.
